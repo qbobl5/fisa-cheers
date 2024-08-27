@@ -13,7 +13,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/qbobl5">
+      <a href="https://github.com/qbobl5">
         <img src="https://github.com/qbobl5.png" alt="김혜빈" width="150" height="150"/>
       </a>
     </td>
