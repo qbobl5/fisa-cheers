@@ -2,6 +2,8 @@
 > 우리 fisa 3기 치어스! <br>
 > cs 공부 및 취업 준비 목적의 스터디
 
+[➡️ 노션 페이지](https://www.notion.so/CHEERS-5db4ecd1b288451fbd4cc1bd05e4d784)
+
 <br>
 
 ### 👥 스터디원
@@ -10,6 +12,11 @@
     <td align="center">
       <a href="https://github.com/Jieun-KWAK">
         <img src="https://github.com/Jieun-KWAK.png" alt="곽지은" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rlfrkdms1">
+        <img src="https://github.com/rlfrkdms1.png" alt="길가은" width="150" height="150"/>
       </a>
     </td>
     <td align="center">
@@ -27,11 +34,21 @@
         <img src="https://github.com/SeungAh-Yoo99.png" alt="유승아" width="150" height="150"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/doyi0107">
+        <img src="https://github.com/doyi0107.png" alt="이도이" width="150" height="150"/>
+      </a>
+    </td>
   </tr>
    <tr>
     <td align="center">
       <a href="https://github.com/Jieun-KWAK">
         <b>곽지은</b>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/rlfrkdms1">
+        <b>길가은</b>
       </a>
     </td>
     <td align="center">
@@ -44,9 +61,14 @@
         <b>오선민</b>
       </a>
     </td>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/SeungAh-Yoo99">
         <b>유승아</b>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/doyi0107">
+        <b>이도이</b>
       </a>
     </td>
   </tr>
