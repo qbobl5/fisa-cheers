@@ -2,8 +2,6 @@
 > 우리 fisa 3기 치어스! <br>
 > cs 공부 및 취업 준비 목적의 스터디
 
-[➡️ 노션 페이지](https://www.notion.so/CHEERS-5db4ecd1b288451fbd4cc1bd05e4d784)
-
 <br>
 
 ### 👥 스터디원
