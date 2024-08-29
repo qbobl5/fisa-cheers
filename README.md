@@ -24,21 +24,6 @@
         <img src="https://github.com/qbobl5.png" alt="김혜빈" width="150" height="150"/>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/seonmin5">
-        <img src="https://github.com/seonmin5.png" alt="오선민" width="150" height="150"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SeungAh-Yoo99">
-        <img src="https://github.com/SeungAh-Yoo99.png" alt="유승아" width="150" height="150"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/doyi0107">
-        <img src="https://github.com/doyi0107.png" alt="이도이" width="150" height="150"/>
-      </a>
-    </td>
   </tr>
    <tr>
     <td align="center">
@@ -56,6 +41,27 @@
         <b>김혜빈</b>
       </a>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/seonmin5">
+        <img src="https://github.com/seonmin5.png" alt="오선민" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SeungAh-Yoo99">
+        <img src="https://github.com/SeungAh-Yoo99.png" alt="유승아" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/doyi0107">
+        <img src="https://github.com/doyi0107.png" alt="이도이" width="150" height="150"/>
+      </a>
+    </td>
+  </tr>
+   <tr>
     <td align="center">
       <a href="https://github.com/seonmin5">
         <b>오선민</b>
