@@ -3,6 +3,7 @@
 ## 📚 개념 정리
 
 ### Web
+- [Cookie & Session]()
 - [HTTP Request Methods]()
 - [HTTP status code]()
 
