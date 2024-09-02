@@ -4,5 +4,6 @@
 
 ### Web
 - [HTTP Request Methods]()
+- [HTTP status code]()
 
 ## 👩‍💼 꼬리 질문 모음
